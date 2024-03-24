@@ -1,2 +1,2 @@
 Hello i am raconcop
-University of Washington Informatics student
+UW seattle info student
