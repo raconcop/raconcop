@@ -1,5 +1,7 @@
-Hello i am raconcop
-UW seattle info alum
+# I am raconcop
+- UW seattle info alum
+- Looking to work in IT/Computer Science
+- Highly interested in cybersecurity
 
 
-Listed are some personal projects that I do for fun
+# Listed are some personal projects that I do for fun
