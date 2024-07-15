@@ -3,5 +3,3 @@
 - Looking to work in IT/Computer Science
 - Highly interested in cybersecurity
 
-
-# Listed are some personal projects that I do for fun
